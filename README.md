@@ -1,4 +1,4 @@
-👋 Hi, I’m @NCP Bails
+👋 Hi, I’m NCP Bails
 
 <!---
 NCP Bails/NCP Bails is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
